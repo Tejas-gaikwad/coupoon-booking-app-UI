@@ -1,3 +1,8 @@
+* This is a coupon send and reddem app UI purely based on flutter(dart).
+* There is no backend currently attached to it. But I am thinking to make it dynamic using backend.
+* One more point - I speedcoded this app and was made it possible in less than 3 hours, the pop0ups took little time. 
+* Any suggestions are accepted.
+
 <img src="https://user-images.githubusercontent.com/46574484/221426688-d80737cb-f371-47d7-ab84-4f7a49e6162c.png" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/46574484/221426698-16d9d18d-6a07-46e4-b91e-34da714653ab.png" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/46574484/221426707-0e89498b-8e22-4e60-a61f-e181caa338bb.png" width="300" height="500">
